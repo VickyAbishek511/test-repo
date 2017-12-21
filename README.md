@@ -1,4 +1,4 @@
 # test-repo
-|libs|
-|---|
-|values|
+|libs|values|
+|---|---|
+|values|23.32.2|
